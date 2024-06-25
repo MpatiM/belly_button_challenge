@@ -1,4 +1,5 @@
 # Belly Button Challenge
+The Module 14 assignment was completed to assess JavaScript and HTML knowledge and skills. 
 
 ## Background
 In this assignment, an interactive dashboard was built to explore the [Belly Button Biodiversity dataset](https://robdunnlab.com/projects/belly-button-biodiversity/), which catalogs the microbes that colonize human navels.
