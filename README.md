@@ -29,4 +29,4 @@ The dataset reveals that a small handful of microbial species (also called opera
    ![Final Dashboard Display](https://github.com/MpatiM/belly_button_challenge/assets/159741444/f321d935-3376-4606-9492-811100e97754)
 
 ## GitHub Pages
-To view and interact with the dashboard, click on the following GitHub Pages link: ()
+To view and interact with the dashboard, click on the following GitHub Pages link: https://mpatim.github.io/belly_button_challenge/
